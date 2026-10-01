@@ -1,4 +1,5 @@
 #! /bin/bash
 
 echo "run"
-bash "./tutorial-01/run.sh"
+pwd
+bash "./tutorial_01/run.sh"

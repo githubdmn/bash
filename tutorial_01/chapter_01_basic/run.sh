@@ -1,3 +1,3 @@
 #! /bin/bash
 
-echo "chapter-01"
+echo "chapter_01"
